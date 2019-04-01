@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/hands-on-react/static/js/runtime~main.1539fe58.js"
   },
   {
-    "revision": "d21b3adb68ee506ce759",
-    "url": "/hands-on-react/static/js/main.e7946fce.chunk.js"
+    "revision": "9ab8e3772d58acd40704",
+    "url": "/hands-on-react/static/js/main.22a890ec.chunk.js"
   },
   {
     "revision": "45124f853ba07aa965c0",
     "url": "/hands-on-react/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "d21b3adb68ee506ce759",
+    "revision": "9ab8e3772d58acd40704",
     "url": "/hands-on-react/static/css/main.7c933af7.chunk.css"
   },
   {
-    "revision": "6b6d4e989e62f2626cdb45295e8ee7d4",
+    "revision": "cef8c987cc0128bab324eb7dc5307e48",
     "url": "/hands-on-react/index.html"
   }
 ];
