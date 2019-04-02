@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+h1 {
+  display: block;
+  width:90vw;
+  padding: 5vw;
+}
+h2{
+  color:#999;
+  width: 90vw;
+  padding: 5vw;
+}
