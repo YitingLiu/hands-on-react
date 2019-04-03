@@ -23,3 +23,8 @@ h2{
   width: 90vw;
   padding: 5vw;
 }
+
+#root div {
+  height:100vh;
+  width: 100vw;
+}
