@@ -1,13 +1,13 @@
 {
-  "main.css": "/hands-on-react/static/css/main.bf5c5eeb.chunk.css",
-  "main.js": "/hands-on-react/static/js/main.17639fdb.chunk.js",
-  "main.js.map": "/hands-on-react/static/js/main.17639fdb.chunk.js.map",
+  "main.css": "/hands-on-react/static/css/main.e5c05e9f.chunk.css",
+  "main.js": "/hands-on-react/static/js/main.cd3366ab.chunk.js",
+  "main.js.map": "/hands-on-react/static/js/main.cd3366ab.chunk.js.map",
   "runtime~main.js": "/hands-on-react/static/js/runtime~main.1539fe58.js",
   "runtime~main.js.map": "/hands-on-react/static/js/runtime~main.1539fe58.js.map",
-  "static/js/2.4e81ba5b.chunk.js": "/hands-on-react/static/js/2.4e81ba5b.chunk.js",
-  "static/js/2.4e81ba5b.chunk.js.map": "/hands-on-react/static/js/2.4e81ba5b.chunk.js.map",
+  "static/js/2.0f58faaa.chunk.js": "/hands-on-react/static/js/2.0f58faaa.chunk.js",
+  "static/js/2.0f58faaa.chunk.js.map": "/hands-on-react/static/js/2.0f58faaa.chunk.js.map",
   "index.html": "/hands-on-react/index.html",
-  "precache-manifest.109d0b8f3d35f885ec6edaa1e213654f.js": "/hands-on-react/precache-manifest.109d0b8f3d35f885ec6edaa1e213654f.js",
+  "precache-manifest.a1b527f13f1ec06091c997d081ab7273.js": "/hands-on-react/precache-manifest.a1b527f13f1ec06091c997d081ab7273.js",
   "service-worker.js": "/hands-on-react/service-worker.js",
-  "static/css/main.bf5c5eeb.chunk.css.map": "/hands-on-react/static/css/main.bf5c5eeb.chunk.css.map"
+  "static/css/main.e5c05e9f.chunk.css.map": "/hands-on-react/static/css/main.e5c05e9f.chunk.css.map"
 }
